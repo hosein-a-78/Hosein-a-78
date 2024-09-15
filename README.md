@@ -1,6 +1,9 @@
 # 💫 About Me:
  𝐇𝐄𝐋𝐋𝐎𝐖 𝐂𝐎𝐃𝐄𝐑𝐒..!<br><br>ᴍʏ ɴᴀᴍᴇ ɪ𝐬 - HOSEIN - ɪᴀᴍ ᴀ FRONT-END ᴅᴇᴠᴇʟᴏᴘᴇʀ....😎
-<br><br>𝐓𝐡𝐞 𝐬𝐨𝐮𝐫𝐜𝐞 𝐜𝐨𝐝𝐞 𝐟𝐨𝐫 𝐭𝐡𝐞 𝐩𝐨𝐬𝐭𝐬 𝐚𝐧𝐝 𝐫𝐞𝐞𝐥𝐬, 𝐰𝐡𝐢𝐜𝐡 𝐚𝐫𝐞 𝐫𝐞𝐠𝐮𝐥𝐚𝐫𝐥𝐲 𝐬𝐡𝐚𝐫𝐞𝐝 𝐨𝐧 𝐭𝐡𝐞 𝐨𝐟𝐟𝐢𝐜𝐢𝐚𝐥 @𝐜𝐨𝐝𝐞𝐰𝐢𝐭𝐡_𝐦𝐮𝐡𝐢𝐥𝐚𝐧 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦 𝐚𝐜𝐜𝐨𝐮𝐧𝐭, 𝐡𝐚𝐬 𝐛𝐞𝐞𝐧 𝐦𝐚𝐝𝐞 𝐚𝐯𝐚𝐢𝐥𝐚𝐛𝐥𝐞 𝐨𝐧 𝐭𝐡𝐢𝐬 𝐆𝐢𝐭𝐇𝐮𝐛 𝐫𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲 𝐟𝐨𝐫 𝐩𝐮𝐛𝐥𝐢𝐜 𝐚𝐜𝐜𝐞𝐬𝐬 𝐚𝐧𝐝 𝐫𝐞𝐟𝐞𝐫𝐞𝐧𝐜𝐞.
+<br><br>Hello, I am Hosein, I am 23 years old and it has been a year since I got acquainted with the world of programming.
+I started training from the Laitec training group affiliated with Sharif University of Technology and after that I tried to learn more with online courses.
+I am well-versed in Html5 and Css3, and I also know JavaScript at an intermediate level, I am familiar with sass, bootstrap and Jquery. I worked with git and github and the portfolio is fully responsive, there is also a small project related to rest api skills in the portfolio.
+I recently learned the react course and put some work samples in my resume.
 
 
 ## 🌐 Socials:
@@ -26,4 +29,4 @@
 
 
 
-[![](https://visitcount.itsvg.in/api?id=@codewithmuhilan&icon=3&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Hosein-a-78&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
